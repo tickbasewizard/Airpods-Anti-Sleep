@@ -9,12 +9,12 @@
 - Minimal CPU consumption  
 - EXE version requires no Python  
 - Operates automatically, requires no setup  
-- Precompiled EXE in [Releases](https://github.com/tickbasewizard/airpods-anti-sleep/releases)  
+- Precompiled .exe in [Releases](https://github.com/tickbasewizard/airpods-anti-sleep/releases)  
 
 ---
 
 ## Quick Start
-1. Download the EXE from [Releases](https://github.com/tickbasewizard/airpods-anti-sleep/releases)  
+1. Download the .exe from [Releases](https://github.com/tickbasewizard/airpods-anti-sleep/releases)  
 2. Place it in `shell:startup`  
 3. Runs automatically on login
 
