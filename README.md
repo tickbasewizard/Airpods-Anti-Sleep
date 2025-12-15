@@ -7,7 +7,7 @@
 ## Characteristics
 - Avoids sleeping  
 - Minimal CPU consumption  
-- EXE version requires no Python  
+- .exe version requires no Python  
 - Operates automatically, requires no setup  
 - Precompiled .exe in [Releases](https://github.com/tickbasewizard/airpods-anti-sleep/releases)  
 
